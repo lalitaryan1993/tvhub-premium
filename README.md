@@ -1,3 +1,5 @@
+<img src="docs/icon-512.png" width="96" align="right" alt="TV Hub Premium icon">
+
 # TV Hub Premium
 
 **Free live TV for Android TV, with a premium look.** One click adds hundreds of free public Indian

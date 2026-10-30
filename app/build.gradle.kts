@@ -11,8 +11,8 @@ android {
         applicationId = "io.github.lalitaryan1993.tvhubpremium"
         minSdk = 26
         targetSdk = 34
-        versionCode = 2
-        versionName = "1.0.0"
+        versionCode = 3
+        versionName = "1.0.1"
     }
 
     // Release signing comes from the environment so the keystore never sits in the repo.
